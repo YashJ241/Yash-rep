@@ -9,6 +9,8 @@ fdfd
 ## Pollution
 fdfd
 
+<img src="station-timeseries.png" alt="Time series of station and global annual temperature anomalies" width="700" style="border: 1px solid darkgrey">
+
 ## Biofilms
 fdfd
 
