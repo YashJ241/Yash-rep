@@ -1,4 +1,5 @@
 # Executive Public Summary: Effects of Climate Change on the Evolution of Antimicrobial Resistance
+### By: Aunika Venables, Bianca Mammarella, Kayla Bulyovsky, Maia Davey, and Yash Joshi 
 
 ## Introduction
 Climate change refers to long-term alterations in temperature and weather conditions, caused naturally or by human activity (IPCC, 2021). This issue has affected every populated region of the planet; however, humans are not the only species impacted (IPCC, 2021). The evolution of antimicrobial resistance (AMR) within organisms is also being influenced by climate change (Cavicchioli et al., 2019). The main drivers of evolution are genetic alterations and horizontal gene transfer (HGT) whereby microbes transfer genetic material from one cell to the other (Ziebuhr et al., 1999). 
