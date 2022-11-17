@@ -15,7 +15,7 @@ Biofilms are communities of microbes that protect each other from harsh environm
 ## Temperature
 Temperature is an essential factor in the growth of microbes, which makes it important to consider when looking at how climate change affects evolution of AMR. As previously mentioned, HGT is one of the major sources of AMR. Further, HGT is linked with temperature because the success of gene transfer increases with this factor (Burnham, 2021). Evolution of AMR can also be amplified through the increase in spontaneous mutations as a result of shock from high temperature environments (Foster, 2007; Rodríguez-Verdugo et al., 2020). Therefore, increasing global temperature as a result of climate change increases the evolution of AMR within microbes (Figure 1) (McGough et al., 2020). 
 
-<img src="station-timeseries.png" alt="Time series of station and global annual temperature anomalies" width="700" style="border: 1px solid darkgrey">
+<img src="temperature and amr relationship.png" alt="Executive Summary Figure 1 - Temperature and AMR Relationship" width="700" style="border: 1px solid darkgrey">
 
 *Figure 1: Normalized AMR compared to yearly average minimum temperature (°C) for four antimicrobial classes in 28 countries for three five-year periods. The increasing linear trend demonstrates the increasing AMR as the annual minimum temperature rises due to climate change. Adapted from McGough et al., 2020.*
 
